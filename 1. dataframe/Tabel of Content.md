@@ -13,3 +13,9 @@
 4. dataframe part 4 .. 
    - filter dataset
    - labelling dataset menggunakan list comprehension
+
+5. dataframe part 5 ..
+   - 
+
+6. dataframe part 6 ..
+   - 

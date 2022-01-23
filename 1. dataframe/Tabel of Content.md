@@ -15,7 +15,7 @@
    - labelling dataset menggunakan list comprehension
 
 5. dataframe part 5 ..
-   - 
+   - insert kolom dan atur letak kolom
 
 6. dataframe part 6 ..
-   -
+   - stack data / pivot data

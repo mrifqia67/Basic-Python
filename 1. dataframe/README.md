@@ -19,3 +19,6 @@
 
 6. dataframe part 6 ..
    - stack data / pivot data
+
+7. dataframe part 7 ..
+   - membuat tanggal secara otomatis

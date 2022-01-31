@@ -24,3 +24,7 @@
    - membuat tanggal secara otomatis
 
 8. dataframe part 8 ..
+   - membuat index dan cross tabulation
+
+9. dataframe part 9 ..
+   - menghitung banyaknya karakter pada suatu kata

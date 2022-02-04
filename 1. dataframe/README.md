@@ -26,5 +26,5 @@
 8. [dataframe part 8 ..](https://github.com/mrifqia67/Basic-Python/blob/main/1.%20dataframe/dataframe%20part%2008.ipynb)
    - membuat index dan cross tabulation
 
-9. dataframe part 9 ..
+9. [dataframe part 9 ..](https://github.com/mrifqia67/Basic-Python/blob/main/1.%20dataframe/dataframe%20part%2009.ipynb)
    - menghitung banyaknya karakter pada suatu kata

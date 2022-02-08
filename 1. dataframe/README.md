@@ -30,3 +30,5 @@
    - menghitung banyaknya karakter pada suatu kata
 
 10. dataframe part 10 ..
+
+11. dataframe part 11 ..

@@ -28,3 +28,5 @@
 
 9. [dataframe part 9 ..](https://github.com/mrifqia67/Basic-Python/blob/main/1.%20dataframe/dataframe%20part%2009.ipynb)
    - menghitung banyaknya karakter pada suatu kata
+
+10. dataframe part 10 ..
